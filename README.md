@@ -8,7 +8,7 @@ Welcome to the Mini Projects Repository! This repository is a collection of smal
 
 **Description:** The Review Stars project is a simple web application that allows users to rate items using a star-based system commonly seen on e-commerce websites. Users can hover over the stars to select a rating from 1 to 5 stars, and their selection is visually reflected in real-time.
 
-**Technologies Used:** Reactjs
+**Technologies Used:** Reactjs, Tailwindcss
 
 **Code Link:** https://github.com/Sthvan-Suroshi/React-Mini-Projects/tree/main/review_stars
 
