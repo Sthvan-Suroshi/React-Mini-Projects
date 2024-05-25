@@ -12,6 +12,14 @@ Welcome to the Mini Projects Repository! This repository is a collection of smal
 
 **Code Link:** https://github.com/Sthvan-Suroshi/React-Mini-Projects/tree/main/review_stars
 
+### 2. Accordin
+
+**Description:** The accordin is a simple react component which enhances user experience by enabling them to expand and collapse sections of information, improving content organization.
+
+**Technologies Used:** Reactjs, Tailwindcss
+
+**Code Link:** https://github.com/Sthvan-Suroshi/React-Mini-Projects/tree/main/accordin
+
 Feel free to explore the projects and use them for learning!
 
 The preview images are available on the specified links.
